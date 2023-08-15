@@ -48,14 +48,6 @@ section#socialmedia img {
     box-sizing: border-box;
 }
 
-section#socialmedia {
-    position: absolute;
-    top: 14%;
-    left: 54%;
-    transform: translate(50%, 0%);
-}
-
-
 section#socialmedia img:hover {
     border: 2px solid rgba(255, 255, 255, 0.801);
     transform: translate(-3px, -3px);
